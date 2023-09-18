@@ -32,7 +32,7 @@ a {
 	animation: drawing 0.4s;
 
 	&:hover {
-		background-color: $primary;
+		border-color: $primary;
 	}
 }
 
